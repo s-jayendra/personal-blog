@@ -1,0 +1,8 @@
+body {
+  max-width: 640px;
+  margin: 0 auto;
+  padding: 0 25px;
+}
+.home-page-section {
+  border-bottom: 1px dashed rgba(0, 0, 0, 0.2);
+}
